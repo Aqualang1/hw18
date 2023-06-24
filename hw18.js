@@ -20,31 +20,3 @@ $('button').on('click', function () {
         }
     });
 })
-
-
-
-// function writeData() {
-//     $('#city').text('LVIV');
-//     $('temp').text(weatherData.temperature);
-//     $('pressure').text(weatherData.pressure);
-//     $('humidity').text(weatherData.humidity);
-//     $('speed').text(weatherData.speed);
-//     $('deg').html(weatherData.deg);
-// }
-
-
-        // const weatherData = {
-        //     temperature: response.main.temp,
-        //     pressure: response.main.pressure,
-        //     description: response.weather[0].description,
-        //     humidity: response.main.humidity,
-        //     windSpeed: response.wind.speed,
-        //     windDirection: response.wind.deg,
-        //     icon: response.weather[0].icon
-        // };
-        // console.log(weatherData.temperature);
-        // $('#temp').html(weatherData.main.temp);
-
-        // writeData();
-
-        // console.log(weatherData);
