@@ -1,0 +1,12 @@
+{
+  "name": "hw18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hw18.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
